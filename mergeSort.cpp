@@ -85,7 +85,7 @@ void printArray(int A[], int size)
 }
 
 // Driver code
-(* int main()
+int main()
 {
 	int arr[] = { 12, 11, 13, 5, 6, 7 };
 	int arr_size = sizeof(arr) / sizeof(arr[0]);
@@ -98,7 +98,7 @@ void printArray(int A[], int size)
 	cout << "\nSorted array is \n";
 	printArray(arr, arr_size);
 	return 0;
-} *)
+} 
 
 // This code is contributed by Mayank Tyagi
 // This code was revised by Joshua Estes
