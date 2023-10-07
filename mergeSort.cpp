@@ -79,7 +79,7 @@ void mergeSort(int array[], int const begin, int const end)
 // Function to print an array
 void printArray(int A[], int size)
 {
-	for (int i = 0; i < size; j++)
+	for (int i = 0; i < size; i++)
 		cout << A[j] << " ";
 	cout << endl;
 }
