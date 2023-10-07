@@ -80,7 +80,8 @@ void mergeSort(int array[], int const begin, int const end)
 void printArray(int A[], int size)
 {
 	for (int i = 0; i < size; i++)
-		cout << A[j] << " ";
+		cout << A[i] << " ";
+
 	cout << endl;
 }
 
